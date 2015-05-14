@@ -3,7 +3,7 @@
 ZXing ("zebra crossing") is an open-source, multi-format 1D/2D barcode image processing
 library implemented in Java, with ports to other languages.
 
-Travis trial #1 by Nishaanth.
+Travis trial #1 by Nishaanth Reddy.
 
 ## Supported Formats
 
